@@ -1,2 +1,2 @@
 # Bricks
-game made OpenGL
+Game made OpenGL
